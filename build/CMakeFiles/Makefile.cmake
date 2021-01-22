@@ -22,6 +22,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/ubuntu/tutorial_ws/src/CMakeLists.txt"
   "/home/ubuntu/tutorial_ws/src/beginner_tutorials/CMakeLists.txt"
   "/home/ubuntu/tutorial_ws/src/beginner_tutorials/package.xml"
+  "/home/ubuntu/tutorial_ws/src/beginner_tutorials/scripts/add_two_ints_client.py"
+  "/home/ubuntu/tutorial_ws/src/beginner_tutorials/scripts/add_two_ints_server.py"
   "/home/ubuntu/tutorial_ws/src/beginner_tutorials/scripts/listener.py"
   "/home/ubuntu/tutorial_ws/src/beginner_tutorials/scripts/talker.py"
   "/opt/ros/noetic/share/catkin/cmake/all.cmake"
